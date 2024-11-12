@@ -197,7 +197,7 @@ nav a:hover {
     width: 580px;
     overflow: hidden;
     height: 400px;
-    background-image: url("../img/ostinato.png") ;
+    background-image: url("../assets/img/ostinato.png") ;
 background-repeat: no-repeat;
 background-size:cover;
 background-position: center;
@@ -210,7 +210,7 @@ box-shadow: 0px 2px 30px 0px rgba(212, 212, 212, 0.50);
     width: 580px;
     overflow: hidden;
     height: 400px;
-    background-image: url("../img/synergy.png") ;
+    background-image: url("../assets/img/synergy.png") ;
 background-repeat: no-repeat;
 background-size:cover;
 background-position: center;
@@ -340,7 +340,7 @@ box-shadow: 0px 2px 30px 0px rgba(212, 212, 212, 0.50);
 }
 
 .ostinato-header {
-background-image: url("../img/ostinato-banner.png") ;
+background-image: url("../assets/img/ostinato-banner.png") ;
 background-repeat: no-repeat;
 background-size:cover;
   background-position: top center;
@@ -398,7 +398,7 @@ max-width:max-content;
 }
 
 .banner-1 {
-    background-image: url("../img/ostinato-banner.png") ;
+    background-image: url("../assets/img/ostinato-banner.png") ;
 background-repeat: no-repeat;
 background-size:cover;
 background-position: center;
@@ -412,7 +412,7 @@ justify-content: center;
 }
 
 .banner-2 {
-    background-image: url("../img/ostinato-banner-2.png") ;
+    background-image: url("../assets/img/ostinato-banner-2.png") ;
 background-repeat: no-repeat;
 background-size:cover;
 background-position: center;
